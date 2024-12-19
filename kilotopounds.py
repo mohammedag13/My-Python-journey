@@ -1,5 +1,5 @@
 """
-Building a program to convert weight from kilograms
+Building  program to convert weight from kilograms
 to pounds because in europe we use kilograms and in America
 people use pounds so it is a bit confusing.
 """
