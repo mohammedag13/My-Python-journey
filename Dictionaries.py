@@ -17,3 +17,12 @@ print(students)
 
 for student, lastname in students.items():
     print(f"{student} last name is {lastname}")
+
+
+
+
+
+# Common dictionarry methods:
+# .keys(): Return all keys        
+# .values(): return all values         
+#.itemss(): Returns all key-values pairs as tuples.
