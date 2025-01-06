@@ -2,10 +2,11 @@
 # Adding Elements using .append()
 names = ["mohammed", "fatima ezzahra", "Riad", "majed"]
 names.append("salah")
+names.pop(0)
 print(names)
 
 # Removing elements using remove()
-# Using .pop() - to move the element at the desired index
+# Using .pop() - to remove the element at the desired index
 numbers = [0, 1, 2, 3, 4, 5]
 numbers.remove(1)
 numbers.pop(0)
